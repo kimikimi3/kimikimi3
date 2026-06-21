@@ -28,6 +28,8 @@
   STATUS    : [#######---] Learning, building, leveling up
 ```
 
+<br/><br/>
+
 ## 〔 ABOUT ME 〕
 
 - 🔭 Hi! I'm Kim, 18, and I love bringing art and design into tech. I've always wanted to learn how to code and program — that's what drew me to this course. I'm excited to keep learning everything this field has to offer, and I hope it teaches me lessons I'll carry into the future. ^__^
