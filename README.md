@@ -1,79 +1,59 @@
 <div align="center">
 
-# Hello World, I'm Kim Zhyrelle 👋
+# Hello World!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2332&height=200&section=header&text=KIM%20ZHYRELLE&fontSize=60&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Coder%20•%20Student%20•%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descColor=66e0e0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2332&height=200&section=header&text=Kim%20zhyrelle&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Coder%20•%20Student%20•%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descColor=66e0e0" width="100%"/>
 
-<br/>
 
-<img src="https://img.shields.io/badge/-STUDENT-2d2d2d?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2d2d2d"/>
-<img src="https://img.shields.io/badge/-LEARNER-1a73e8?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CREATIVE%20CODER-d6336c?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FULL%20STACK%20DEV-2ea043?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<!-- SOCIAL MEDIA — replace YOUR_USERNAME / YOUR_HANDLE / YOUR_LINK in each href below -->
+<a href="https://github.com/kimzhyrelle"><img src="https://img.shields.io/badge/-GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white&labelColor=2d2d2d"/></a>
+<a href="https://instagram.com/kzhyr3l"><img src="https://img.shields.io/badge/-Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2d2d2d"/></a>
+<a href="https://www.facebook.com/kzhyr3l/"><img src="https://img.shields.io/badge/-Facebook-2d2d2d?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=2d2d2d"/></a>
+<a href="https://www.linkedin.com/in/del-mundo-kim-zhyrelle-m-627363380/"><img src="https://img.shields.io/badge/-LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d2d2d"/></a>
+<a href="mailto:kimzhyrelled@gmail.com"><img src="https://img.shields.io/badge/-Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d2d2d"/></a>
 
 <br/><br/>
 
 </div>
-
 
 ```bash
-┌──(kim@portfolio)-[~]
-└─$ whoami --verbose
-
   NAME      : Kim Zhyrelle Macabuhay Del Mundo
-  AGE       : 18
+  AGE       : 19
   LOCATION  : Philippines
   ROLE      : Student • Aspiring Developer
-  FOCUS     : Design × Code
-  STATUS    : [#######---] Learning, building, leveling up
+  FOCUS     : Design, Functionality and Database
 ```
-
-<br/><br/>
-
-## 〔 ABOUT ME 〕
-
-- 🔭 Hi! I'm Kim, 18, and I love bringing art and design into tech. I've always wanted to learn how to code and program — that's what drew me to this course. I'm excited to keep learning everything this field has to offer, and I hope it teaches me lessons I'll carry into the future. ^__^
-
-- 🌱 My goal is to write good code and build fun projects with everything I learn along the way. Python was tough for me last year, but I'm hoping this semester is different — I want to actually get the hang of it and pick up skills I can really use.
-
-- 👯 **Skills:** Creativity is my strongest suit — I'm quick with concepts, design, and themes. I know a bit of HTML/CSS, Java, and C#, and I'm currently working on leveling up my back-end skills.
-
-- 📫 **Contact:** kimzhyrelled@gmail.com · dkimzhyrelle@gmail.com
-
-## 〔 TECH STACK 〕
-
-<div align="center">
-
-**◆ Languages & Tools ◆**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cs,python&theme=dark" />
-
-<br/><br/>
-
-**◆ Currently Exploring ◆**
-
-<img src="https://img.shields.io/badge/-Back--End%20Dev-181717?style=for-the-badge&logo=node.js&logoColor=43853d"/>
-<img src="https://img.shields.io/badge/-UI%2FUX%20Design-181717?style=for-the-badge&logo=figma&logoColor=a259ff"/>
-
-</div>
-
-## 〔 GITHUB STATS 〕
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kimzhyrelle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=66e0e0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimzhyrelle&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=66e0e0" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimzhyrelle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" width="48%"/>
+##  ABOUT ME 
 
-</div>
+Hi! I'm Kim, 19 — I love bringing art into tech. Design has always been where my creativity finds an outlet, and I put meticulous care into every detail, from layout and color to the small interactions that make an interface feel right. I believe good design isn't just about how something looks, but how it makes people feel when they use it — so I hold a strong focus on principles that create a great user experience in every project I build.
+
+I've always wanted to learn how to code and program, and that curiosity has grown into something more intentional as I am currently diving deeper into proper architecture, organization, and logic across the languages I use. I'm also expanding my knowledge of different tech stacks, taking the time to explore the most efficient frameworks, languages, and databases — building a foundation I can keep growing as I go.
+
+
+##  TECH STACK
 
 <div align="center">
 
-### ✦ Thanks for stopping by — more projects coming soon! ✦
+**Languages & Tools**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2332,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,xd,figma,flask,vscode,mysql&theme=dark" />
+
+<br/><br/>
+
+**Currently Exploring**
+
+<img src="https://img.shields.io/badge/-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-PHP-2d2d2d?style=for-the-badge&logo=php&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-Laravel-2d2d2d?style=for-the-badge&logo=laravel&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-2d2d2d?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d2d2d"/>
+<br/>
+<img src="https://img.shields.io/badge/-GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-Open%20Source%20Projects-2d2d2d?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-Blender-2d2d2d?style=for-the-badge&logo=blender&logoColor=white&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/-Flask-2d2d2d?style=for-the-badge&logo=flask&logoColor=white&labelColor=2d2d2d"/>
 
 </div>
