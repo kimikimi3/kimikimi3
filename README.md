@@ -15,7 +15,6 @@
 
 </div>
 
-## 〔 WHOAMI 〕
 
 ```bash
 ┌──(kim@portfolio)-[~]
